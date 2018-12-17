@@ -13,6 +13,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../SS_crmeducativo_v2_4/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SS_crmeducativo_v2_4/app/src/main/java/com/consultoraestrategia/ss_crmeducativo/CMRE.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../SS_crmeducativo_v2_4/app/src/main/java/com/consultoraestrategia/ss_crmeducativo/rubricasBidimensionales/abstracto/adapter/PeriodoAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/crmedatabase/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/crmedatabase/src/main/java/com/consultoraestrategia/ss_crmeducativo/database/crmedatabase/Dbas.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
